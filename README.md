@@ -1,7 +1,7 @@
 # CU-Fintech202211-DeepLearning
 # Neural Network using Keras
 
-In this program I used the `prophet` library (formerly known as `fbprophet`) to create time series forecasts.
+In this program Tensorflow library is used to create Deep Learning models on application data of startups to predict their likelihood of success.
 
 ## Technologies
 This program uses Tensorflow which has several dependencies most of which are installed by default in the conda environment.
